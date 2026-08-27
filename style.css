@@ -1,0 +1,69 @@
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2em 1.2em 4em;
+  line-height: 1.55;
+  color: #222;
+  background: #fdfdfb;
+}
+
+h1 {
+  font-size: 1.6em;
+  margin-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.15em;
+  margin-top: 2em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.2em;
+}
+
+nav {
+  margin-bottom: 2em;
+  font-size: 0.95em;
+}
+
+nav a {
+  margin-right: 1.2em;
+}
+
+a {
+  color: #1a4d8f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 1.3em;
+}
+
+li {
+  margin-bottom: 0.6em;
+}
+
+.profile-pic {
+  max-width: 220px;
+  border-radius: 6px;
+  float: right;
+  margin: 0 0 1em 1.5em;
+}
+
+.contact {
+  font-style: italic;
+}
+
+footer {
+  margin-top: 3em;
+  font-size: 0.85em;
+  color: #777;
+}
+
+.note {
+  font-size: 0.9em;
+  color: #555;
+}
